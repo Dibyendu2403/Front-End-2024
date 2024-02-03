@@ -7,7 +7,7 @@ const question = [{
     'correct':'a'
 },{
     'que':"what year was javascript launched?",
-    'a':"1996",
+    'a':"2000",
     'b':"1995",
     'c':"1994",
     'd':"none of the above",
