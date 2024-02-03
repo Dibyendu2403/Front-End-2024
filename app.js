@@ -16,7 +16,7 @@ const question = [{
     'que':"what does CSS stands for?",
     'a':"Hyper text marked up language",
     'b':"Cascading style sheet",
-    'c':"jason object notation",
+    'c':"jason object",
     'd':"helicopter termonals notoboats lamborginis",
     'correct':"b",
 }
